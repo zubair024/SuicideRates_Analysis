@@ -1,6 +1,6 @@
 # SuicideRates_Analysis
 
--Cleaned the data and removed the unncessary information for the clean analysis.
+-Cleaned the data and removed the unnecessary information for the clean analysis.
 -Performed Statistical analysis to see for the various mathematical trends in our data.
 -Performed exploratory data analysis and visualization to see the frequency of suicides based on different categories like- states, year, age group, gender etc. Found out
 the top results for each category through this analysis.
